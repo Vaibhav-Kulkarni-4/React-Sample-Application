@@ -12,7 +12,7 @@ function Members() {
   const [currentMember, setCurrentMember] = useState({});
 
   useEffect(() => {
-    fetch("http://localhost:3000/members")
+    fetch("http://localhost:5000/members")
       .then((res) => res.json())
       .then(
         (data) => {
@@ -41,7 +41,11 @@ function Members() {
   };
 
   if (error) {
-    return <div className="text-blue-900 text-center text-lg my-auto">Error: {error.message}</div>;
+    return (
+      <div className="text-blue-900 text-center text-lg my-auto">
+        Error: {error.message}
+      </div>
+    );
   } else if (!isLoaded) {
     return (
       <div className="text-blue-900 text-center text-lg my-auto">

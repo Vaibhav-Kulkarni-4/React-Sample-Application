@@ -10,19 +10,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This installs all the dependencies required onto your machine.
 
-### Start App
+### Start App and Mock Server Simultaneously
+
+`npm run dev`
+
+### Start App (Optional)
 
 `npm run start`
 
 This runs the app in the development mode.\
-Open [http://localhost:3006](http://localhost:3006) to view it in the browser.
+Open [http://localhost:300](http://localhost:3000) to view it in the browser.
 
-### Start JSON Mock Server
+### Start JSON Mock Server (Optional)
 
 `npm run json:server`
 
 This starts the mock server with which you can make fake REST API calls. (AWESOME)\
-Open [http://localhost:3000/members](http://localhost:3000/members) to view it in the browser.
+Open [http://localhost:5000/members](http://localhost:5000/members) to view it in the browser.
 
 ### Make Arrangements To Deploy Application
 
