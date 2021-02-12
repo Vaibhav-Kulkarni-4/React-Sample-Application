@@ -14,6 +14,9 @@ This installs all the dependencies required onto your machine.
 
 `npm run dev`
 
+This commands runs the app in dev mode along with that, it starts the mock server.\
+Saves time and energy :stuck_out_tongue:
+
 ### Start App (Optional)
 
 `npm run start`
