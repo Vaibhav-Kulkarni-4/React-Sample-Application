@@ -18,6 +18,7 @@ This commands runs the app in dev mode along with that, it starts the mock serve
 Saves time and energy :stuck_out_tongue:
 
 ### Start App (Optional)
+#### No need to execute this if `npm run dev` is used
 
 `npm run start`
 
@@ -25,6 +26,7 @@ This runs the app in the development mode.\
 Open [http://localhost:300](http://localhost:3000) to view it in the browser.
 
 ### Start JSON Mock Server (Optional)
+#### No need to execute this if `npm run dev` is used
 
 `npm run json:server`
 
