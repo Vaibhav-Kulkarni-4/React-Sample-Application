@@ -19,7 +19,7 @@ Open [http://localhost:3006](http://localhost:3006) to view it in the browser.
 
 `npm run json:server`
 
-This starts the mock server with which you can make fake REST API calls (AWESOME)
+This starts the mock server with which you can make fake REST API calls. (AWESOME)\
 Open [http://localhost:3000/members](http://localhost:3000/members) to view it in the browser.
 
 ### Make Arrangements To Deploy Application
