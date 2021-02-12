@@ -1,12 +1,12 @@
-# Getting Started
+# Setting Up The Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Setting Up The Application
 
 ### Install Dependencies
 
 `npm install`
+
+This installs all the dependencies required onto your machine.
 
 ### Start App
 
@@ -33,3 +33,27 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## UI Library Used
+
+### `React Suite`
+
+A suite of React components, sensible UI design, and a friendly development experience.\
+
+See [React Suite Guide](https://rsuitejs.com/guide/use-with-create-react-app/) for more info.
+
+## CSS Framework Used
+
+### `Tailwind CSS`
+
+A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.\
+
+See [Setting up Tailwind CSS in a Create React App project](https://tailwindcss.com/docs/guides/create-react-app/) for more info.
+
+## Deploymnet Platform Used
+
+### `Netlify`
+
+A powerful serverless platform with an intuitive git-based workflow.\
+
+See [Deployment for React on Netlify](https://create-react-app.dev/docs/deployment/#netlify) for more info.
