@@ -41,7 +41,7 @@ function Members() {
   };
 
   if (error) {
-    return <div>Error: {error.message}</div>;
+    return <div className="text-blue-900 text-center text-lg my-auto">Error: {error.message}</div>;
   } else if (!isLoaded) {
     return (
       <div className="text-blue-900 text-center text-lg my-auto">
