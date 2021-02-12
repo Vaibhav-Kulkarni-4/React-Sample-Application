@@ -55,7 +55,7 @@ function Members() {
   } else {
     return (
       <div className="p-4 text-blue-900">
-        <h4 className="pb-3">Users</h4>
+        <h3 className="pb-3">Users</h3>
         <List hover>
           {members.map((member, index) => (
             <List.Item className="text-lg" key={member.id}>
