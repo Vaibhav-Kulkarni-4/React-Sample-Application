@@ -5,12 +5,7 @@ function HomeNavbar() {
     <Navbar appearance="inverse">
       <Navbar.Body>
         <Nav>
-          <Nav.Item href="https://fullthrottlelabs.com/">
-            <img
-              src="https://fullthrottlelabs.com/img/logo/logo-2.png"
-              className="h-9"
-            ></img>
-          </Nav.Item>
+          <Nav.Item></Nav.Item>
         </Nav>
       </Navbar.Body>
     </Navbar>

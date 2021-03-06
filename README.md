@@ -1,4 +1,4 @@
-## App Link -> [FullThrottle Labs](https://ftl-react-app.netlify.app/)
+## [App Link Demo](https://status-react-app.netlify.app/)
 
 # Setting Up The Application
 
@@ -51,7 +51,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `React Suite`
 
-A suite of React components, sensible UI design, and a friendly development experience.\
+A suite of React components, sensible UI design, and a friendly development experience.
 
 See [React Suite Guide](https://rsuitejs.com/guide/use-with-create-react-app/) for more info.
 
@@ -76,4 +76,4 @@ See [Deployment for React on Netlify](https://create-react-app.dev/docs/deployme
 To create fake online REST mock server for prototyping.
 See [My JSON Server](https://my-json-server.typicode.com/) for more info.
 
-#### Refer [mock db.json repository](https://github.com/Vaibhav-Kulkarni-4/ftl-db)
+#### Refer [mock db.json repository](https://github.com/Vaibhav-Kulkarni-4/user-mock-db)
